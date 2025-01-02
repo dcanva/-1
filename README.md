@@ -159,39 +159,10 @@
     <br><br><br><br><br><br><br><br><br><br>
 
 
-    <div>
-
-      <div style="padding: 200px;background-color: darkgrey ;">
-
-
-        <h1 style="font-family: 'Times New Roman', Times, serif;">Wedding Wishes for Owais & Zulaikha</h1>
-
-        <h4>Dear Owais and Zulaikha,</h4>
-
-        <p>Today marks the beginning of a beautiful new chapter in your lives, and we couldn’t
-          be happier to witness this special moment. May your union be filled with endless love, laughter,
-          and unwavering support for each other.</p>
-
-         <p> Owais, as you take Zulaikha's hand, may you always cherish and protect her with all your heart. Zulaikha,
-          as you walk beside Owais, may your days together be filled with joy and understanding, creating memories that
-          last a lifetime.</p>
-
-         <p> Together, may you both build a life full of happiness, respect, and the kind of love that only grows stronger
-          with time.
-          May your journey together be blessed, and may you always find comfort and strength in each other’s presence.
-        </p>
 
 
 
-
-</div>
-
-
-    </div>
-
-
-
-    <br><br><br><br><br><br>
+    
 
 
     <div>
@@ -297,6 +268,7 @@
         <div class="card-body">
           <h5 class="card-title">Naat Khuwani</h5>
           <p class="card-text">BAGH-E-BAHAR</p>
+           <p class="card-text">https://shorturl.at/JL19J</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
         </div>
       </div>
@@ -345,6 +317,7 @@
         <div class="card-body">
           <h5 class="card-title">Nikkah (Day Event)</h5>
           <p class="card-text">Aqsa Masjid</p>
+          <p class="card-text">https://tinyurl.com/388a9dbs</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
         </div>
       </div>
@@ -385,6 +358,7 @@
         <div class="card-body">
           <h5 class="card-title">Nikkah (Night Event)</h5>
           <p class="card-text">BAGH-E-BAHAR</p>
+          <p class="card-text">https://tinyurl.com/2fbf3uc2</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
         </div>
       </div>
@@ -453,6 +427,7 @@
           <p class="card-text"></p>
           <h5 class="card-title">Mehendi & Qawali Night</h5>
           <p class="card-text">Pakistan Maritime Museum</p>
+          <p class="card-text">https://tinyurl.com/4wzuf6zw</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
 
 
@@ -528,6 +503,7 @@
           <p class="card-text"></p>
           <h5 class="card-title">Wannah</h5>
           <p class="card-text">Aasha Lawn</p>
+          <p class="card-text">https://tinyurl.com/35mabbya</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
 
 
@@ -576,10 +552,7 @@
 
 
 
-    </div>
-    </div>
-    </div>
-
+    
 
 
     </div>
@@ -611,6 +584,7 @@
           <p class="card-text"></p>
           <h5 class="card-title">Wedding</h5>
           <p class="card-text">Grand Palace</p>
+          <p class="card-text">https://tinyurl.com/2nfn4bs9</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
 
 
@@ -670,6 +644,7 @@
           <p class="card-text"></p>
           <h5 class="card-title">Valima</h5>
           <p class="card-text">Sadabahar Banquet</p>
+          <p class="card-text">https://shorturl.at/7V3QK</p>
           <a href="#" class="btn btn-dark">Scan QR For Location</a>
 
 
